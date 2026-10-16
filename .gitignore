@@ -1,6 +1,5 @@
 api/node_modules/
 .idea
-.vscode
 .cache
 .npm
 .npmrc
@@ -46,3 +45,4 @@ plugins/plugins.json.*
 .sdk
 dump
 dist/
+config.bat
